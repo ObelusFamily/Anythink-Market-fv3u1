@@ -11,3 +11,11 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+Bringing backend up:
+docker-compose up
+Health check with following:
+https://obelusfamily-anythink-market-fv3u1-q9p5vr49j95f66v7-3000.githubpreview.dev/api/ping
+
+Create an user on frontend:
+https://obelusfamily-anythink-market-fv3u1-q9p5vr49j95f66v7-3001.githubpreview.dev/register
